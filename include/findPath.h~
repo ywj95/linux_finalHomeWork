@@ -1,0 +1,10 @@
+#ifndef _CALC_H
+#define _CALC_H
+
+
+int findPath(Stack s,int x,int y)
+{
+}
+
+
+#endif //_CALC_H
